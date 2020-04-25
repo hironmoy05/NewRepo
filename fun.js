@@ -2,4 +2,6 @@ function multiple(x, y) {
  return x * y;
 }
 
-multiple(3, 5);
+console.log(multiple(3, 5));
+
+
